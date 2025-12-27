@@ -1,2 +1,2 @@
 # Driving-Alzheimers-and-AI
-This repository is for paper "Identifying and Predicting Cognitive Decline Using Multi-Modal Sensor Data and Machine Learning Approach"
+This repository is for paper "Multimodal AI for early cognitive decline detection using real-world driving and sleep data"
